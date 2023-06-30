@@ -1,0 +1,50 @@
+
+body{
+    background: antiquewhite;
+    justify-content: center;
+    display:  flex;
+}
+.title {
+    background: aquamarine;
+    width: 32%;
+    margin-bottom: -37%;
+    border: 7px solid #15b24c;
+    margin-top: 4%;
+}
+.from-submit {
+    background: transparent;
+    width: 100%;
+    text-transform: uppercase;
+    padding: 6px 10px;
+}
+.ti {
+    width: 82%;
+    margin-inline: -10%;
+}
+footer {
+    border: 7px solid #15b24c;
+    width: 25%;
+    background: aliceblue;
+}
+h2 {
+    margin-inline: 18%;
+}
+form.aaa {
+    margin-inline: 32%;
+}
+input#file {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+label {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: black;
+    background-color: aliceblue;
+    display: inline-block;
+    cursor: pointer;
+}
